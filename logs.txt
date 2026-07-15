@@ -1,0 +1,20 @@
+2026-05-31 08:00:01 INFO Server started successfully
+2026-05-31 08:00:05 INFO Connected to database
+2026-05-31 08:01:12 INFO User 'juan' logged in
+2026-05-31 08:02:34 WARNING High memory usage detected: 85%
+2026-05-31 08:03:45 INFO User 'maria' logged in
+2026-05-31 08:05:00 ERROR Failed to connect to external API
+2026-05-31 08:06:23 INFO User 'pedro' logged in
+2026-05-31 08:07:11 WARNING Disk space low: 10% remaining
+2026-05-31 08:08:45 ERROR Database connection timeout
+2026-05-31 08:09:00 INFO Retrying database connection...
+2026-05-31 08:09:05 INFO Database reconnected successfully
+2026-05-31 08:10:22 ERROR Invalid login attempt for user 'hacker123'
+2026-05-31 08:11:34 WARNING CPU usage high: 90%
+2026-05-31 08:12:00 INFO User 'juan' logged out
+2026-05-31 08:13:45 ERROR File not found: config.json
+2026-05-31 08:14:00 WARNING Slow response time detected: 5000ms
+2026-05-31 08:15:12 INFO Backup completed successfully
+2026-05-31 08:16:33 ERROR Out of memory error
+2026-05-31 08:17:00 INFO Server restarting...
+2026-05-31 08:17:22 INFO Server restarted successfully

@@ -65,8 +65,8 @@
 
 ## Error Handling
 
-    - Displays "File not found" if the specified file does not exist.
-    - Ignores blank lines in the log file.
+    - Displays "File not found" if the specified file does not exist
+    - Ignores blank lines in the log file
 
 ## Future Improvements
 
